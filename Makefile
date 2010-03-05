@@ -1,5 +1,5 @@
 C = nvcc
-CFLAGS = -deviceemu
+# CFLAGS = -deviceemu
 
 all: mandelbrot
 
